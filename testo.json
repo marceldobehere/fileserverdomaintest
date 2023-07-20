@@ -1,54 +1,18 @@
 {
-  "faction": "Touhou r/place",
-  "contact": "https://discord.gg/apl Touhou r/place, @overstonked",
-  "notifications": "https://tp23-broadcaster.dogecore.net",
+  "faction": "ROCC",
+  "contact": "",
+  "notifications": "",
   "templates": [
     {
-      "name": "Reimu and Marisa",
+      "name": "Rocc",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1120259502797754479/1131604846659784805/image.png"
+        "https://media.discordapp.net/attachments/1131634927398555709/1131649725586751611/trocc.png"
       ],
-      "priorityMaskSources": [
-        "https://cdn.discordapp.com/attachments/1024801662788968478/1121526832471228426/touhou_mask.png"
+	  "priorityMaskSources": [
+        "media.discordapp.net/attachments/1131634944683278387/1131658255999967282/rocc_src.png"
       ],
-      "x": 637,
-      "y": 640
-    },
-    {
-      "name": "Mini-Cirno",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131597321189195847/1131652462210719865/MiniCirbo.png"
-      ],
-      "x": 658,
-      "y": 639
-    }
-  ],
-  "whitelist": [
-    {
-      "name": "r/hatsune",
-      "url": "https://gist.githubusercontent.com/mikusquared/c6bdc4969638ddafb7a7d25a9f695eff/raw/"
-    },
-    {
-      "name": "r/osuplace",
-      "url": "https://osu.place/e/osuplace2023.json"
-    },
-    {
-      "name": "P3ACE",
-      "url": "https://charity.pxls.space/p3ace"
-    }
-  ],
-  "blacklist": [
-    {
-      "name": "Touhou r/place",
-      "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
-    },
-    {
-      "name": "Touhou r/place",
-      "url": "https://rentry.org/touhouplace2023/raw"
-    },
-    {
-      "name": "Touhou r/place",
-      "url": "https://tp23.dogecore.net/template.json"
+      "x": 1,
+      "y": 1
     }
   ]
 }
