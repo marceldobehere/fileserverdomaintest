@@ -1,0 +1,18 @@
+{
+  "faction": "ROCC / LAYTON",
+  "contact": "Discord: marceldarcel and the r/ProfessorLayton server: https://discord.gg/0zbq92d9640r86ac",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Rocc and Layton",
+      "sources": [
+        "https://media.discordapp.net/attachments/177900592767696896/1132017390578839583/lay3.png"
+      ],
+      "priorityMaskSources": [
+        "https://media.discordapp.net/attachments/177900592767696896/1132017390843088906/lay3_.png"
+      ],
+      "x": 1280,
+      "y": 309
+    }
+  ]
+}
