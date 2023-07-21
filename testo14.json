@@ -1,0 +1,15 @@
+{
+  "faction": "ROCC / LAYTON / ACE / FRANCE",
+  "contact": "Discord: marceldarcel and the r/ProfessorLayton server: https://discord.gg/0zbq92d9640r86ac and Ace Attourney people and r/placeFR",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Rocc, Layton, Ace and France",
+      "sources": [
+        "https://media.discordapp.net/attachments/177900592767696896/1132038409058271355/fr1.png"
+      ],
+      "x": 1280,
+      "y": 307
+    }
+  ]
+}
