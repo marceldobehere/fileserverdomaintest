@@ -13,6 +13,17 @@
       ],
       "x": 1129,
       "y": 941
+    },
+    {
+      "name": "Layton",
+      "sources": [
+        "https://media.discordapp.net/attachments/177900592767696896/1132006956350058628/lay1.png"
+      ],
+      "priorityMaskSources": [
+        "https://cdn.discordapp.com/attachments/177900592767696896/1132006956589137950/lay2.png"
+      ],
+      "x": 1155,
+      "y": 932
     }
   ]
 }
