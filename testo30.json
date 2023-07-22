@@ -6,24 +6,6 @@
 			"sources": "https://media.discordapp.net/attachments/177900592767696896/1132340423747178617/rocc_aaa.png",
 			"x": 406,
 			"y": 673
-		},
-		{
-			"name": "Swiss 1.0",
-			"sources": ["https://i.imgur.com/UIP5L72.png"],
-			"x": 1182,
-			"y": 132
-		},
-		{
-			"name": "Swiss 2.0",
-			"sources": ["https://i.imgur.com/YP4IRzf.png"],
-			"x": 1796,
-			"y": 132
-		},
-		{
-			"name": "Swiss 3.0",
-			"sources": ["https://i.imgur.com/6Ewbpyc.png"],
-			"x": 416,
-			"y": 684
 		}
 	]
 }
