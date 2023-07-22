@@ -2,6 +2,12 @@
 	"contact": "Discord: evilmossad",
 	"templates": [
 		{
+			"name": "The Rocc, Layton, Ace Alliance!",
+			"sources": "https://media.discordapp.net/attachments/177900592767696896/1132340423747178617/rocc_aaa.png",
+			"x": 406,
+			"y": 673
+		},
+		{
 			"name": "Swiss 1.0",
 			"sources": ["https://i.imgur.com/UIP5L72.png"],
 			"x": 1182,
@@ -18,12 +24,6 @@
 			"sources": ["https://i.imgur.com/6Ewbpyc.png"],
 			"x": 416,
 			"y": 684
-		},
-		{
-			"name": "The Rocc, Layton, Ace Alliance!",
-			"sources": "https://media.discordapp.net/attachments/177900592767696896/1132340423747178617/rocc_aaa.png",
-			"x": 406,
-			"y": 673
 		}
 	]
 }
