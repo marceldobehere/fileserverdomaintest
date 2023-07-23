@@ -30,6 +30,12 @@
             "sources": ["https://media.discordapp.net/attachments/1132431969486131313/1132648823483805716/ROCC_LAYTON_ACE_SWISS_3.png"],
             "x": 406,
             "y": 1171
+        },
+        {
+            "name": "ROLAND TEMP 1",
+            "sources": ["https://media.discordapp.net/attachments/1132431969486131313/1132740410616320060/ROLAND_T1.png"],
+            "x": 440,
+            "y": 1813
         }
     ]
 }
