@@ -1,0 +1,41 @@
+{
+    "contact": "Discord: marceldarcel",
+    "templates": [
+      	{
+      		"name": "Swiss 1.0",
+      		"sources": ["https://i.imgur.com/EWGZGAz.png"],
+      		"x": 1182,
+      		"y": 632
+      	},
+      	{
+      		"name": "Swiss 2.0",
+      		"sources": ["https://i.imgur.com/hux0ZXP.png"],
+      		"x": 1796,
+      		"y": 632
+      	},
+      	{
+      		"name": "Swiss 3.0",
+      		"sources": ["https://i.imgur.com/SYkit3Z.png"],
+      		"x": 410,
+      		"y": 1184
+      	},
+      	{
+      		"name": "Swiss 4.0",
+      		"sources": ["https://i.imgur.com/O0LMNKR.png"],
+      		"x": 281,
+      		"y": 450
+      	},
+        {
+            "name": "The Rocc, Layton, Ace Alliance!",
+            "sources": ["https://media.discordapp.net/attachments/1132431969486131313/1132842718406643732/ROCC_LAYTON_ACE_SWISS_4.png"],
+            "x": 406,
+            "y": 1171
+        },
+        {
+            "name": "The Rocc, Layton, Ace Alliance! (Place 2)",
+            "sources": ["https://media.discordapp.net/attachments/959904257425965097/1132826048690659369/rolace_o3.png"],
+            "x": 410,
+            "y": 1957
+        }
+    ]
+}
